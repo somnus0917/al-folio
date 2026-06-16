@@ -22,11 +22,6 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am Lei Chen, an incoming M.S. student in Artificial Intelligence at the Institute of Computing Technology, Chinese Academy of Sciences / University of Chinese Academy of Sciences. Before that, I received my B.Eng. degree in Intelligent Manufacturing Engineering from Southwest Jiaotong University.

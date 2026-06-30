@@ -9,8 +9,8 @@ rss_icon: true # comment this line to hide the RSS icon
 homepage:
   logo: fa-solid fa-house
   title: Personal Website
-  url: https://somnus.top/
+  url: https://somnus.wiki/
 blog:
   logo: fa-solid fa-blog
   title: Blog
-  url: https://blog.somnus.top/
+  url: https://blog.somnus.wiki/

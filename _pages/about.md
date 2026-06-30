@@ -12,8 +12,8 @@ profile:
     <p><strong>Lei Chen (陈磊)</strong></p>
     <p>UCAS / ICT, CAS</p>
     <p>somnus0917chen@hotmail.com</p>
-    <p><a href="https://somnus.top">somnus.top</a></p>
-    <p><a href="https://blog.somnus.top">blog.somnus.top</a></p>
+    <p><a href="https://somnus.wiki">somnus.wiki</a></p>
+    <p><a href="https://blog.somnus.wiki">blog.somnus.wiki</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
